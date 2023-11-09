@@ -1,4 +1,4 @@
-{
+{ "proxy": "https://fitness-app-backend-0nwm.onrender.com/",
   "name": "server",
   "version": "1.0.0",
   "description": "",
